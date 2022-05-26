@@ -1,0 +1,9 @@
+{
+  "home_desc": "it is very easy to switch between languages in flutter using the Easy Localization library",
+  "home_btn_text": "Select Language",
+  "lang_desc": "Select a language. The changes will automaticaly be applied to all the Text widget with the .tr() extension throughout the app",
+  "lang_btn_eng": "English",
+  "lang_btn_hindi": "hindi",
+  "lang_btn_guj": "gujarati",
+  "lang_btn_tamil": "Tamil"
+}
